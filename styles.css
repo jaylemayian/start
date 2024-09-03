@@ -2,13 +2,8 @@ body {
 	background-color: darkblue;
 }
 
-h1 {
+h1, p1, p2 {
 	color: white;
 	font-size: 30px;
-}
-
-p1, p2 {
-	color: white;
-	font-size: 20px;
 	font-family: verdana;
 }
