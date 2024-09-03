@@ -2,6 +2,11 @@ body {
 	background-color: darkblue;
 }
 
+h1 {
+	color: white;
+	align: center;
+}
+
 p1, p2 {
 	color: white;
 	font-size: 30px;
