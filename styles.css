@@ -7,6 +7,7 @@ h1 {
 	text-align: center;
 }
 
+/* Here, both paragraphs are formatted in white. */
 p1, p2 {
 	color: white;
 	font-size: 20px;
