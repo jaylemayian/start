@@ -2,9 +2,10 @@ body {
 	background-color: mediumseagreen;
 }
 
-h1 {
+h1, h2 {
 	color: white;
 	text-align: center;
+	border: 2px, solid White;
 }
 
 /* Here, both paragraphs are formatted in white. */
