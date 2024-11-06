@@ -12,6 +12,7 @@ table, th, td {
 	border: 1px solid white;
 	color: white
 	text-align: center;
+	font-family: verdana;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
