@@ -1,5 +1,5 @@
 body {
-	background-color: darkoceanblue;
+	background-color: darkoceangreen;
 }
 
 h1 {
@@ -8,9 +8,6 @@ h1 {
 	border: 2px solid White;
 	background-color: darkblue;
 	opacity: 0.5;
-}
-div {
-	background-color: red;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
