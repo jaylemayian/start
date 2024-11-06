@@ -3,10 +3,13 @@ body {
 	background-repeat: repeat-x;
 }
 
-h1, table {
+h1 {
 	color: white;
 	text-align: center;
-	border: 2px solid White;	
+	border: 2px solid white;	
+}
+table, th, td {
+	border: 1px solid white;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
