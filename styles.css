@@ -7,7 +7,6 @@ h1 {
 	text-align: center;
 	border: 2px solid White;
 	background-color: blue;
-	opacity: 0.5;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
