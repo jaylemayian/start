@@ -9,7 +9,9 @@ h1 {
 	background-color: darkblue;
 	opacity: 0.5;
 }
-
+div {
+	background-color: red;
+}
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
 	color: white;
