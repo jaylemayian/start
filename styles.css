@@ -11,8 +11,8 @@ h1 {
 table, th, td {
 	border: 1px solid white;
 	color: white
-	text-align: center;
 	font-family: verdana;
+	width: 100%;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
