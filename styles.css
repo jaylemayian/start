@@ -10,7 +10,7 @@ h1 {
 }
 table, th, td {
 	border: 1px solid white;
-	color: white
+	font-color: white
 	font-family: verdana;
 	width: 100%;
 }
