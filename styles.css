@@ -17,7 +17,7 @@ table {
 	border-collapse: collapse;
 }
 /* Here, both paragraphs are formatted in white. */
-p1, p2 {
+p1, p2, h1 {
 	color: white;
 	font-size: 20px;
 	font-family: verdana;
