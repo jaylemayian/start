@@ -14,7 +14,7 @@ table, th, td {
 	font-family: verdana;
 }
 table {
-	border-collapse: collapse;
+	border: 1px;
 	color: white;
 	width: 100%;
 }
