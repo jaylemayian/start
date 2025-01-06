@@ -15,6 +15,7 @@ table, th, td {
 }
 table {
 	border-collapse: collapse;
+	color: white;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2, h1 {
