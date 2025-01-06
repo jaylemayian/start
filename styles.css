@@ -14,7 +14,6 @@ table, th, td {
 	font-family: verdana;
 }
 table {
-	color: white;
 	border-collapse: collapse;
 }
 /* Here, both paragraphs are formatted in white. */
