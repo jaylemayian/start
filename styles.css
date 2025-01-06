@@ -18,6 +18,9 @@ table {
 	color: white;
 	width: 50%;
 }
+th, td {
+	padding: 15px;
+}
 /* Here, both paragraphs are formatted in white. */
 p1, p2, h1 {
 	color: white;
