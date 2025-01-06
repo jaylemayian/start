@@ -9,12 +9,13 @@ h1 {
 	border: 2px solid white;	
 }
 table, th, td {
-	border: 1px solid white;
+	border: 1px solid;
 	font-color: white
 	font-family: verdana;
 }
 table {
-	color: white
+	color: white;
+	border-collapse: collapse;
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
