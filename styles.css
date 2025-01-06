@@ -15,7 +15,7 @@ table, th, td {
 	width: 50%;
 }
 table {
-	font-color: white
+	color: white
 }
 /* Here, both paragraphs are formatted in white. */
 p1, p2 {
