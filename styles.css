@@ -19,8 +19,8 @@ table {
 	width: 50%;
 }
 table {
-	border-style: dotted
-	border-color: red
+	border-style: dotted;
+	border-color: red, blue, white, yellow;
 }
 th, td {
 	padding: 10px;
