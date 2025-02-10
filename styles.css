@@ -19,7 +19,7 @@ table {
 	width: 50%;
 }
 table {
-	border-style: dotted;
+	border-style: dotted solid double dashed;
 	border-color: red, blue, white, yellow;
 }
 th, td {
