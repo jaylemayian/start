@@ -39,7 +39,7 @@ h1 {
 }
 div {
 	background-color: blue;
-	text: white;
+	text-color: white;
 	width: 300px;
 	border: 15px solid white;
 	padding: 50px;
