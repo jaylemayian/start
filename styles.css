@@ -40,7 +40,7 @@ h1 {
 /* Here was my attempt at creating a CSS Box Model. */
 div {
 	background-color: blue;
-	text-color: white;
+	color: white;
 	width: 300px;
 	border: 15px solid white;
 	padding: 50px;
