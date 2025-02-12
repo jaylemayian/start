@@ -37,6 +37,7 @@ p {
 h1 {
 	padding: 50px 20px;
 }
+/* Here was my attempt at creating a CSS Box Model. */
 div {
 	background-color: blue;
 	text-color: white;
