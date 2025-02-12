@@ -46,3 +46,7 @@ div {
 	padding: 50px;
 	margin: 20px;
 }
+p.ex1 {
+	outline-style: dotted;
+	outline-color: inverted;
+}
