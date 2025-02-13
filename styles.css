@@ -50,6 +50,6 @@ p.ex1 {
 	outline-style: dotted;
 	outline-color: inverted;
 }
-h.uppercase { /*Here is an attempt to convert the Heading "My Favourite Rules..." into UPPERCASE. */
+p.uppercase { /*Here is an attempt to convert the Heading "My Favourite Rules..." into UPPERCASE. */
 	text-transform: uppercase;
 }
