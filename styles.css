@@ -8,6 +8,9 @@ h1 {
 	text-align: center;
 	border: 2px solid white;	
 }
+h1 {
+	text-shadow: 2px 2px;
+}
 table, th, td {
 	border: 1px solid;
 	font-color: white;
