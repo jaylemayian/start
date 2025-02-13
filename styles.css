@@ -9,7 +9,7 @@ h1 {
 	border: 2px solid white;	
 }
 h1 {
-	text-shadow: 2px 2px;
+	text-shadow: 2px 2px red;
 }
 table, th, td {
 	border: 1px solid;
