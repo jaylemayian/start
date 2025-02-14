@@ -30,6 +30,9 @@ th, td {
 	padding: 10px;
 }
 /* Here, both paragraphs are formatted in white. */
+th {
+	font-variant: small-caps;
+}
 p1, p2, h1 {
 	color: white;
 	font-size: 20px;
