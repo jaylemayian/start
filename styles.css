@@ -15,7 +15,7 @@ h1 {
 table, th, td {
 	border: 1px solid;
 	font-color: white;
-	font-family: verdana;
+	font-family: "Lucida Sans";
 }
 table {
 	border-collapse: collapse;
@@ -36,7 +36,7 @@ th {
 p1, p2, p3, h1 {
 	color: white;
 	font-size: 20px;
-	font-family: verdana;
+	font-family: "Lucida Serif";
 }
 p {
 	margin: 100px 70px;
