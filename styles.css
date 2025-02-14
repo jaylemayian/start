@@ -33,7 +33,7 @@ th, td {
 th {
 	font-variant: small-caps;
 }
-p1, p2, h1 {
+p1, p2, p3, h1 {
 	color: white;
 	font-size: 20px;
 	font-family: verdana;
@@ -56,6 +56,7 @@ div {
 p.ex1 {
 	outline-style: dotted;
 	outline-color: inverted;
+	color: white;
 }
 p.uppercase { /*Here is an attempt to convert the Heading "My Favourite Rules..." into UPPERCASE. */
 	text-transform: uppercase;
