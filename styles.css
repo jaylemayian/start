@@ -64,6 +64,7 @@ p.uppercase { /*Here is an attempt to convert the Heading "My Favourite Rules...
 a:link, a:visited {
 	background-color: cream;
 	color: purple;
+	text-decoration: none;
 	padding: 15px 28px;
 	text-align: center;
 	display: inline-block;
