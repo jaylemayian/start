@@ -68,6 +68,6 @@ a:link, a:visited {
 	text-align: center;
 	display: inline-block;
 }
-a:hoover, a:active {
+a.two:hoover, a:active {
 	background-color: orange;
 }
