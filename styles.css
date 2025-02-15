@@ -61,6 +61,11 @@ p.ex1 {
 p.uppercase { /*Here is an attempt to convert the Heading "My Favourite Rules..." into UPPERCASE. */
 	text-transform: uppercase;
 }
-a {
-	color: purple
+a:link, a:visited {
+	background-color: cream;
+	color: purple;
+	padding: 15px 28px;
+	text-align: center;
+	display: inline-block;
 }
+
