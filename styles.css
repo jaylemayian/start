@@ -74,7 +74,7 @@ a.two:hover, a:active {
 }
 ol.a {
 	list-style-type: upper-roman;
-	text: white
+	text: white;
 	font-family: verdana;
 	background: purple;
 }
