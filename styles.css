@@ -53,7 +53,8 @@ div {
 	border: 15px solid white;
 	padding: 50px;
 	margin: 20px;
-	overflow: scroll; /* I am trying to apply the overflow "scroll" functionality on my <div> element */
+	overflow-x: scroll; /* I am trying to apply the overflow "scroll" functionality on my <div> element */
+	overflow-y: scroll;
 }
 p.ex1 {
 	outline-style: dotted;
