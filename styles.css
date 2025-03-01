@@ -50,9 +50,9 @@ div {
 	color: white;
 	width: 300px;
 	height: 100px;
-	border: 15px solid white;
-	overflow-x: scroll; /* I am trying to apply the overflow "scroll" functionality on my <div> element */
-	overflow-y: scroll;
+	border: 10px solid white;
+	overflow-x: auto; /* I am trying to apply the overflow "scroll" functionality on my <div> element */
+	overflow-y: auto;
 }
 p.ex1 {
 	outline-style: dotted;
