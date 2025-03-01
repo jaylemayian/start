@@ -52,6 +52,7 @@ div {
 	border: 15px solid white;
 	padding: 50px;
 	margin: 20px;
+	overflow: scroll; /* I am trying to apply the overflow "scroll" functionality on my <div> element */
 }
 p.ex1 {
 	outline-style: dotted;
