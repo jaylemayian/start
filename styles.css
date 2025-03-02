@@ -1,7 +1,5 @@
 body {
-	background-image: url("Logo.png");
-	background-repeat: repeat-x;
-	background-attachment: fixed;
+	background-color: grey;
 }
 
 h1 {
