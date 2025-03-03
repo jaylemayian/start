@@ -10,6 +10,12 @@ h1 {
 h1 {
 	text-shadow: 2px 2px red;
 }
+h3 {
+	color: white;
+	text-align: center;
+	color: white;
+	font-family: Georgia;
+}
 table, th, td {
 	border: 1px solid;
 	font-color: white;
