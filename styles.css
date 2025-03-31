@@ -22,10 +22,14 @@ li {
 }
 li a {
 	display: block;
-	color: gray;
+	color: white;
 	text-align: center;
 	padding: 14px 16 px;
 	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
 }
 h1 {
 	color: black;
