@@ -9,6 +9,14 @@ ul {
 	baclground-color: #333;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
 li {
 	float: left;
 }
