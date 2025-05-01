@@ -1,6 +1,11 @@
 body {
 	background-color: white;
 }
+.header {
+	background color: gray;
+	padding: 20px;
+	text-align: center;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -127,7 +132,7 @@ ol.a {
 }
 /* My attempt to format the footer */
 .footer {
-	background-color: grey;
+	background-color: gray;
 	padding: 10px;
 	text-align: center;
 }
