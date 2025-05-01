@@ -35,10 +35,6 @@ li a:hover:not(.active) {
 h1 {
 	color: black;
 	text-align: center;
-	border: 2px solid blue;	
-}
-h1 {
-	text-shadow: 2px 2px red;
 }
 h3 {
 	color: blue;
