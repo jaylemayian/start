@@ -125,4 +125,10 @@ ol.a {
 	clear: both;
 	display: table;
 }
+/* My attempt to format the footer */
+.footer {
+	background-color: grey;
+	padding: 10px;
+	text-align: center;
+}
 
